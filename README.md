@@ -1,7 +1,13 @@
-# Lifetime Capital Demo
+# Lifetime Capital — public demonstration
 
-Public static demonstration following PRD v1.5. Five-section Nordic Overview; specified illustrative financial figures; capital, decision, risk, achievement and task workflows; four direct health pages.
+Version 0.4.0 · PRD v1.6 demonstration. This repository contains compiled static files only.
 
-No personal records or private PRD files are included. Financial/task examples are labeled. User records default to session memory; explicit consent enables unencrypted browser-local saving. No account, server uploads or sync.
+Open https://lynnlai2015-cmyk.github.io/Lifetime-Capital-Demo/?v=1.6#/overview
 
-Start at #/overview, #/ledger, #/decisions, #/risks, #/achievements or #/next. The four Foundation health routes remain available. This repository contains compiled files only.
+New workflows: Achievements annual/monthly tables, Decision Log table with multiple domains, Reflection & Learning Library and evidence-backed Project Progress Gantt. Existing career, financial, health, risk and task workflows remain available. Financial figures and sample priorities are labelled illustrative. No private PRD example narratives or browser-entered records are bundled.
+
+Records default to session-only. Enable browser-local saving explicitly to retain records after refresh. Storage is unencrypted, origin-specific and not synchronized; no cloud backup, secure account or cross-device sync is provided. Default export excludes sensitive records. New reflections default sensitive. Private PRD achievement examples can be previewed/imported from the owner's selected local Markdown file, without upload.
+
+No AI or speech service is connected. Local keyword suggestions are explicitly labelled rules; daily review can be edited manually. Source-linked consequential changes require user confirmation. Percentages require explicit input/evidence; no automatic scheduling or weighted task aggregation is claimed.
+
+Source, requirements, tests and private documentation are maintained separately in the private development repository. Previous public releases remain recoverable in Git history.
