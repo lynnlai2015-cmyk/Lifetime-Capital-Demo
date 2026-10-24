@@ -1,9 +1,11 @@
-# Personal Operating System — V2.0 Phase 1 Demo
+# Personal Operating System — interactive demos
 
-Open https://lynnlai2015-cmyk.github.io/Lifetime-Capital-Demo/?v=pos-v2-phase1#/overview
+Refined V2 preview: https://lynnlai2015-cmyk.github.io/Lifetime-Capital-Demo/v2-refined/?v=1#/overview
 
-Compiled demonstration files only. This release adds the approved V2 homepage and hierarchical navigation, annual objectives, canonical milestone summaries and source-linked Next Up. Previous career, financial, health, achievement, reflection, project, decision and risk workspaces remain accessible. Missing goals stay empty; financial fixtures are clearly labelled illustrative.
+Previous V2 homepage: https://lynnlai2015-cmyk.github.io/Lifetime-Capital-Demo/?v=pos-v2-phase1#/overview
 
-Resource registry, dedicated gratitude and analytics are planned. No AI or voice service, account, backend or cloud synchronization is connected. Default records are session-only; optional browser-local saving is unencrypted and requires explicit consent. The existing origin and storage keys are retained. This deployment neither reads nor clears a visitor's personal records on the server. Older clients may be unable to read newly created objective records; use this release rather than clearing browser storage.
+The refined preview improves typography, spacing, semantic capital cards, neutral navigation, tables and dialogs. Both releases use the same functional source, record schema and existing browser-local keys. Different paths on this same origin share explicitly enabled local records; they do not create separate accounts or copy data. Use one editing tab at a time. Default records are session-only; local saving is unencrypted, opt-in and not synchronized across devices. There is no account, backend or cloud backup.
 
-Private source, PRDs, personal examples, test records and browser exports are not included. Old static assets and previous Git commits are retained for recovery and cached clients. This phase is for owner acceptance; later workflows are not yet implemented.
+Only compiled static assets and this non-sensitive README are published. No private source/PRDs, personal examples, exports or browser test records are included. Financial fixtures are explicitly illustrative; missing goals remain empty. Resource registry, dedicated gratitude and analytics remain planned. No AI or voice service is connected. Canva integration was unavailable in the development session; this visual refinement was implemented in website CSS, not exported from Canva.
+
+The previous root release remains unchanged for visual comparison, and historical releases remain recoverable in Git. The refined release does not change routes, calculations, record IDs or storage keys. Phase 2 remains paused for owner acceptance.
